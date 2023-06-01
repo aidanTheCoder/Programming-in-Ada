@@ -1,0 +1,8 @@
+b  RC b  RC b  RC b  RC
+b  b  RC b  RC b  RC b
+b  BK b  b  b  b  b  b
+b  b  RC b  b  RC b  b
+b  b  b  BK b  b  BC RC
+BC b  b  b  b  b  b  b
+b  BK b  b  b  BC b  b
+BC b  BC b  BC b  BC b
